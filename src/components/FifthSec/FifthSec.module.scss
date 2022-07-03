@@ -31,3 +31,18 @@
 .fifthSec > div:nth-child(2){
   margin-bottom: 30px;
 }
+
+@media (max-width: 830px) { 
+  .div1{
+   display: none;
+  }
+  .firstSet{
+    margin-left:0;
+  }
+  .fifthSec  img {
+    width: 150px;
+    height: 200px;
+  }
+
+
+}
